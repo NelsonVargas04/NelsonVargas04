@@ -37,14 +37,6 @@ I build scalable, user-focused web applications with clean architecture and stro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NelsonVargas15&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonVargas15&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ### 📫 Contact
 
