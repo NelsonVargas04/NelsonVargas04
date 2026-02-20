@@ -10,6 +10,9 @@
   <a href="mailto:var.nelson15@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/NelsonVargas15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -28,13 +31,13 @@ I build scalable, user-focused web applications with clean architecture and stro
 
 ### 🧰 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,postgres,graphql,vite,git,python" />
 </p>
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=NelsonVargas15&show_icons=true&theme=dark&hide_border=true" />
